@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.exe
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.deps.json
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.runtimeconfig.json
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.dll
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\bin\Debug\netcoreapp3.1\Cs Method practice 2 tasks.pdb
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.dll
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.pdb
+C:\Users\User\source\repos\Cs Method practice 2 tasks\Cs Method practice 2 tasks\obj\Debug\netcoreapp3.1\Cs Method practice 2 tasks.genruntimeconfig.cache
